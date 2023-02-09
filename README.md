@@ -1,5 +1,5 @@
-# Your project name
-Your name or CVTC username
+# NBA Live Game Stat Tracker
 
-Your project description
+Emmet Quint
 
+Live NBA Game Stat Tracker
