@@ -18,6 +18,5 @@ I will be creating an application that provides live updates for NBA games as th
 I anticipate requiring a table with entries for each matchup. Each row will contain two team objects as foreign keys. Those team objects will have many player objects as foreign keys, along with a relationship to that players statistic for each given game. I will also have a separate table containing conference standings. I will not have to write any data for this application.
 
 ## Initial designs
-
 ![UI Mockup](/docs/ui_mockup.png)
 ![Site Map](/docs/site_map.png)

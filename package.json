@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-n": "^15.6.1",
     "eslint-plugin-promise": "^6.1.1",
+    "jasmine": "^4.5.0",
     "nodemon": "^2.0.20"
   },
   "dependencies": {
@@ -31,6 +32,7 @@
     "ejs": "^3.1.8",
     "express": "^4.18.2",
     "path": "^0.12.7",
+    "pg": "^8.10.0",
     "serve-favicon": "^2.5.0"
   }
 }
